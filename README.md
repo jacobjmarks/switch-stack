@@ -3,7 +3,7 @@
 
 My Nintendo Switch CFW stack and maintenance guide.
 
-Disclaimer: For personal use.
+Disclaimer: For personal use. Other than this readme file, I am not the author of any contents contained within this repository.
 
 # Current Stack
 
