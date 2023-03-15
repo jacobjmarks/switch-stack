@@ -1,7 +1,9 @@
 
 # switch-stack
 
-My Nintendo Switch CFW stack and maintenance guide
+My Nintendo Switch CFW stack and maintenance guide.
+
+Disclaimer: For personal use.
 
 # Utilities
 
