@@ -12,6 +12,12 @@ Disclaimer: For personal use. Other than this readme file, I am not the author o
 | Atmosphere   | [1.4.1](https://github.com/Atmosphere-NX/Atmosphere/releases/tag/1.4.1) |
 | Hekate - Nyx | [6.0.2](https://github.com/CTCaer/hekate/releases/tag/v6.0.2)           |
 
+Additional payloads
+
+| Name         | Version                                                                |
+| ------------ | ---------------------------------------------------------------------- |
+| Lockpick_RCM | [1.9.10](https://github.com/shchmue/Lockpick_RCM/releases/tag/v1.9.10) |
+
 # Utilities
 
 | Category | Concern           | Name         | Source                                                                                                                   |
