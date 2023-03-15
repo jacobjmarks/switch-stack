@@ -5,6 +5,13 @@ My Nintendo Switch CFW stack and maintenance guide.
 
 Disclaimer: For personal use.
 
+# Current Stack
+
+| Component    | Version                                                                 |
+| ------------ | ----------------------------------------------------------------------- |
+| Atmosphere   | [1.4.1](https://github.com/Atmosphere-NX/Atmosphere/releases/tag/1.4.1) |
+| Hekate - Nyx | [6.0.2](https://github.com/CTCaer/hekate/releases/tag/v6.0.2)           |
+
 # Utilities
 
 | Category | Concern           | Name         | Source                                                                                                                   |
