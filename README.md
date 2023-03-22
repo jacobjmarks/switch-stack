@@ -7,10 +7,14 @@ Disclaimer: For personal use. Other than this readme file, I am not the author o
 
 # Current Stack
 
-| Component    | Version                                                                 |
-| ------------ | ----------------------------------------------------------------------- |
-| Atmosphere   | [1.4.1](https://github.com/Atmosphere-NX/Atmosphere/releases/tag/1.4.1) |
-| Hekate - Nyx | [6.0.2](https://github.com/CTCaer/hekate/releases/tag/v6.0.2)           |
+| Order | Component    | Concern                      | Version                                                                 | Depends On   |
+| ----- | ------------ | ---------------------------- | ----------------------------------------------------------------------- | ------------ |
+| 0     | Atmosphere   | CFW                          | [1.4.1](https://github.com/Atmosphere-NX/Atmosphere/releases/tag/1.4.1) |              |
+| 0     | Hekate - Nyx | Bootloader                   | [6.0.2](https://github.com/CTCaer/hekate/releases/tag/v6.0.2)           |              |
+| 1     | nx-ovlloader | Overlay Support              | [1.0.6](https://github.com/WerWolv/nx-ovlloader/releases/tag/v1.0.6)    |              |
+| 1     | Tesla-Menu   | Overlay Support              | [1.2.0](https://github.com/WerWolv/Tesla-Menu/releases/tag/v1.2.0)      | nx-ovlloader |
+| 2     | Fizeau       | Color Temperature Management | [2.4.1](https://github.com/averne/Fizeau/releases/tag/v2.4.1)           | Tesla-Menu   |
+| 2     | sys-clk      | Overclocking                 | [1.0.2](https://github.com/retronx-team/sys-clk/releases/tag/1.0.2)     | Tesla-Menu   |
 
 Additional payloads
 
