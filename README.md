@@ -101,21 +101,13 @@ See [90DNS: DNS server for blocking all Nintendo Servers | GBAtemp](https://gbat
 
 Refer to [the docs](https://github.com/retronx-team/sys-clk#config) and the [template](https://github.com/retronx-team/sys-clk/blob/develop/config.ini.template).
 
-`/config/sys-clk/config.ini`
+> Can more simply be set in the overlay menu.
 
-``` ini
-[values]
-; Defines how often sys-clk log temperatures, in milliseconds (set 0 to disable)
-temp_log_interval_ms=0
-; Defines how often sys-clk writes to the CSV, in milliseconds (set 0 to disable)
-csv_write_interval_ms=0
+Recommended upper limits (MHz):
 
-; The Legend of Zelda: Breath of the Wild
-[01007EF00011E000]
-docked_cpu=1224
-docked_gpu=921
-handheld_mem=1600
-```
+- CPU: 1224
+- GPU: 921
+- MEM: 1600 (docked default)
 
 ### NSP Installer: Awoo
 
