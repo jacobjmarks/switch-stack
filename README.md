@@ -7,16 +7,16 @@ Disclaimer: For personal use. Other than this readme file, I am not the author o
 
 # Current Stack
 
-| Order | Component      | Concern                      | Version                                                                                                      | Depends On   |
-| ----- | -------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------ |
-| 0     | Atmosphere     | CFW                          | [1.4.1](https://github.com/Atmosphere-NX/Atmosphere/releases/tag/1.4.1)                                      |              |
-| 0     | Hekate - Nyx   | Bootloader                   | [6.0.2](https://github.com/CTCaer/hekate/releases/tag/v6.0.2)                                                |              |
-| 0     | Sigpatches     | Signature patches            | [1.5.1-cfw-16.0.0](https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-package3.571543/) |              |
-| 1     | nx-ovlloader   | Overlay Support              | [1.0.6](https://github.com/WerWolv/nx-ovlloader/releases/tag/v1.0.6)                                         |              |
-| 1     | Tesla-Menu     | Overlay Support              | [1.2.0](https://github.com/WerWolv/Tesla-Menu/releases/tag/v1.2.0)                                           | nx-ovlloader |
-| 1     | Fizeau         | Color Temperature Management | [2.4.1](https://github.com/averne/Fizeau/releases/tag/v2.4.1)                                                | Tesla-Menu   |
-| 1     | sys-clk        | Overclocking                 | [1.0.2](https://github.com/retronx-team/sys-clk/releases/tag/1.0.2)                                          | Tesla-Menu   |
-| 1     | MissionControl | Bluetooth Controller Support | [0.9.0](https://github.com/ndeadly/MissionControl/releases/tag/v0.9.0)                                       |              |
+| Order | Component      | Concern                      | Version                                                                   | Depends On   |
+| ----- | -------------- | ---------------------------- | ------------------------------------------------------------------------- | ------------ |
+| 0     | Atmosphere     | CFW                          | [1.4.1](https://github.com/Atmosphere-NX/Atmosphere/releases/tag/1.4.1)   |              |
+| 0     | Hekate - Nyx   | Bootloader                   | [6.0.2](https://github.com/CTCaer/hekate/releases/tag/v6.0.2)             |              |
+| 0     | Sigpatches     | Signature patches            | [2023-04-18](https://sigmapatches.coomer.party/sigpatches.zip?04.18.2023) |              |
+| 1     | nx-ovlloader   | Overlay Support              | [1.0.6](https://github.com/WerWolv/nx-ovlloader/releases/tag/v1.0.6)      |              |
+| 1     | Tesla-Menu     | Overlay Support              | [1.2.0](https://github.com/WerWolv/Tesla-Menu/releases/tag/v1.2.0)        | nx-ovlloader |
+| 1     | Fizeau         | Color Temperature Management | [2.4.1](https://github.com/averne/Fizeau/releases/tag/v2.4.1)             | Tesla-Menu   |
+| 1     | sys-clk        | Overclocking                 | [1.0.2](https://github.com/retronx-team/sys-clk/releases/tag/1.0.2)       | Tesla-Menu   |
+| 1     | MissionControl | Bluetooth Controller Support | [0.9.0](https://github.com/ndeadly/MissionControl/releases/tag/v0.9.0)    |              |
 
 Additional payloads
 
@@ -84,7 +84,7 @@ payload=bootloader/payloads/fusee.bin
 
 ### Sigpatches
 
-See [Sigpatches for Atmosphere (Hekate, fss0, fusee & package3) | GBAtemp](https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-package3.571543/)
+[Download latest](https://sigmapatches.coomer.party/sigpatches.zip)
 
 ### 90DNS
 
