@@ -25,11 +25,11 @@ Additional payloads
 
 # Utilities
 
-| Category | Concern           | Name         | Source                                                                                                                   |
-| -------- | ----------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------ |
-| Required | Payload injection | TegraRcmGUI  | [eliboa/TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI) / [Releases](https://github.com/eliboa/TegraRcmGUI/releases) |
-| Required | NSP installation  | NS-USBloader | [developersu/ns-usbloader](https://github.com/developersu/ns-usbloader) / [Releases](developersu/ns-usbloader/releases)  |
-| Optional | NRO to NSP        | NTON         | [rlaphoenix/nton](https://github.com/rlaphoenix/nton)                                                                    |
+| Category | Concern           | Name         | Source                                                                                                                                     |
+| -------- | ----------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Required | Payload injection | TegraRcmGUI  | [eliboa/TegraRcmGUI](https://github.com/eliboa/TegraRcmGUI) / [Releases](https://github.com/eliboa/TegraRcmGUI/releases)                   |
+| Required | NSP installation  | NS-USBloader | [developersu/ns-usbloader](https://github.com/developersu/ns-usbloader) / [Releases](https://github.com/developersu/ns-usbloader/releases) |
+| Optional | NRO to NSP        | NTON         | [rlaphoenix/nton](https://github.com/rlaphoenix/nton)                                                                                      |
 
 # SD Setup
 
