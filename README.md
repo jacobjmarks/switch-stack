@@ -143,7 +143,7 @@ Recommended upper limits (MHz):
 
 See [Switch Firmwares | Darthsternie's Firmware Archive](https://darthsternie.net/switch-firmwares/).
 
-Install with Daybreak (bundled with Atmosphere).
+Place archive contents into a `firmware` folder at the SD root. Install with Daybreak (bundled with Atmosphere).
 
 # Payloads
 
